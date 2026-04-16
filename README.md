@@ -18,5 +18,5 @@
 
 
 <video controls width="600">
-  <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/106523216/579138982-e840449d-0a3f-44e4-bf0d-8e8b6d374dc3.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260416%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260416T095422Z&X-Amz-Expires=300&X-Amz-Signature=835c7a8d3cca2a9c6b61484446de37637a53ed4717e115745b72005b20bd7976&X-Amz-SignedHeaders=host&response-content-type=video%2Fmp4" type="video/mp4">
+  <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/106523216/579138982-e840449d-0a3f-44e4-bf0d-8e8b6d374dc3.mp4" type="video/mp4">
 </video>
