@@ -14,3 +14,7 @@
 <div align="center"><img src="/Results/res_findAccounts.png"></div>
 
 <p align="center">workbuddy执行结果图</p>
+
+<video width="640" controls>
+  <source src="https://github.com/zcheng19/Industry_downstream-/releases/download/res/55bb6ebe573e31c2427f35896552d7ee.mp4" type="video/mp4">
+</video>
