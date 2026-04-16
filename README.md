@@ -17,6 +17,4 @@
 
 
 
-<video controls width="600">
-  <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/106523216/579138982-e840449d-0a3f-44e4-bf0d-8e8b6d374dc3.mp4" type="video/mp4">
-</video>
+![demo](https://github-production-user-asset-6210df.s3.amazonaws.com/106523216/579138982-e840449d-0a3f-44e4-bf0d-8e8b6d374dc3.mp4)
