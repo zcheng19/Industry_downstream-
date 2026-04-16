@@ -10,3 +10,7 @@
     &nbsp;&nbsp;任务：使用D:\workbuddy\temps\find_accounts.ps1，现在找6篇原创文章数量小于等于300篇的账号，这些账号不能重名，用表格形式返回给我。
 
 - 第四步：等待workbuddy返回执行结果，账号名称一列即为智能体搜寻到的小号，如下图所示：
+
+<div align="center"><img src="/Pics/res_findAccounts.png"></div>
+
+<p align="center">workbuddy执行结果图</p>
