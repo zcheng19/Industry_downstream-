@@ -15,6 +15,7 @@
 
 <p align="center">workbuddy执行结果图</p>
 
+<div align="center">
 <video width="640" controls>
   <source src="https://github.com/user-attachments/assets/946dff4a-ab01-4a6b-92de-815a2ea069b0" type="video/mp4">
-</video>
+</video></div>
