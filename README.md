@@ -16,5 +16,5 @@
 <p align="center">workbuddy执行结果图</p>
 
 <video width="640" controls>
-  <source src="https://github.com/zcheng19/Industry_downstream-/releases/download/res/55bb6ebe573e31c2427f35896552d7ee.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/cb8d703c-05d6-4792-b38a-7166befc1330" type="video/mp4">
 </video>
