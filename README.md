@@ -11,6 +11,6 @@
 
 - 第四步：等待workbuddy返回执行结果，账号名称一列即为智能体搜寻到的小号，如下图所示：
 
-<div align="center"><img src="/Pics/res_findAccounts.png"></div>
+<div align="center"><img src="/Results/res_findAccounts.png"></div>
 
 <p align="center">workbuddy执行结果图</p>
