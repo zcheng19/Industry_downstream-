@@ -1,5 +1,5 @@
 # Industry_downstream-
-我首先用workbuddy开发了一个自动搜寻微信公众号小号（原创发布<=300篇）的功能。
+&nbsp;&nbsp;我用workbuddy开发了一个自动搜寻微信公众号小号（原创发布<=300篇）的功能。后续继续开发产业链下游更多功能。
 # 使用方法
 - 第一步：下载 find_accounts.ps1 脚本文件，并保存到本地目录，例如 D:\workbuddy\temps；
 
